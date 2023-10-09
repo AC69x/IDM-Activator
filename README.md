@@ -1,5 +1,5 @@
 
-# NoirBird's IDM Activator
+# NoirBird's IDM Activator (soon, star this repo for updates)
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
